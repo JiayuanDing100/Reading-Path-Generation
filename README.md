@@ -132,3 +132,17 @@ Here `link` denotes its corresponding entity id (`paper_id`) within S2ORC after 
     }
 }
 ```
+
+
+## Reference
+Please cite our paper if you find the paper or code to be useful. Thank you!
+
+```
+@article{ding2022tell,
+  title={Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation},
+  author={Ding, Jiayuan and Xiang, Tong and Ou, Zijing and Zuo, Wangyang and Zhao, Ruihui and Lin, Chenghua and Zheng, Yefeng and Liu, Bang},
+  booktitle={2022 IEEE 38th International Conference on Data Engineering (ICDE)},
+  year={2022},
+  organization={IEEE}
+}
+```
