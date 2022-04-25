@@ -1,5 +1,6 @@
 # Reading-Path-Generation
 
+This repository includes the official implementation of the paper **"Tell Me How to Survey: Literature Review Made Simple with Automatic Reading Path Generation"** [ICDE 2022]. 
 
 
 ## SurveyBank
