@@ -6,6 +6,8 @@ This repository includes the official implementation of the paper **"Tell Me How
 ## SurveyBank
 
 For SurvayBank meta data access: https://www.dropbox.com/sh/tcn5e8trysnplio/AACE7uutKT9eQFmrRE8xL1hma?dl=0
+
+
 There are **9,321** survey papers with high quality included in the SurvayBank in the domain of computer science.
 
 ## Data format
